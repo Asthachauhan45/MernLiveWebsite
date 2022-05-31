@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MernLiveWebsite/static/css/main.0d0b7265.chunk.css",
-    "main.js": "/MernLiveWebsite/static/js/main.7e96230b.chunk.js",
-    "main.js.map": "/MernLiveWebsite/static/js/main.7e96230b.chunk.js.map",
+    "main.js": "/MernLiveWebsite/static/js/main.efdebc52.chunk.js",
+    "main.js.map": "/MernLiveWebsite/static/js/main.efdebc52.chunk.js.map",
     "runtime-main.js": "/MernLiveWebsite/static/js/runtime-main.73fcc6a9.js",
     "runtime-main.js.map": "/MernLiveWebsite/static/js/runtime-main.73fcc6a9.js.map",
     "static/js/2.de4ce871.chunk.js": "/MernLiveWebsite/static/js/2.de4ce871.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.73fcc6a9.js",
     "static/js/2.de4ce871.chunk.js",
     "static/css/main.0d0b7265.chunk.css",
-    "static/js/main.7e96230b.chunk.js"
+    "static/js/main.efdebc52.chunk.js"
   ]
 }
