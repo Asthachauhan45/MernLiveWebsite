@@ -38,7 +38,7 @@ const App = () => {
   return (
     <div className='main'>
       <ChakraProvider>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <ScrollIntoView>
             {loading ?
               <div className='loading'>
